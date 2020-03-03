@@ -1,0 +1,18 @@
+{
+  "total": 170,
+  "rice": [
+    {
+      "nameOfRice": "basmati",
+      "priceOfRice": 60,
+      "weightOfRice": 7,
+      "totalPriceOfWeightOfRice": 420
+    },
+    {
+      "nameOfRice": "jyhgiki",
+      "priceOfRice": 567,
+      "weightOfRice": 34,
+      "totalPriceOfWeightOfRice": 19278
+    }
+  ]
+}
+
